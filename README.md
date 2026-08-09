@@ -17,7 +17,7 @@ Once the session launches...
 	npm create vite@latest my-firstglance-app -- --template svelte
 	```
 
-	To the two questions answer `Yes` first and then `No`.
+	To the two questions, answer `Yes` to the first and then `No`.
 
 2. Next run the following series of commands in that terminal:
 
