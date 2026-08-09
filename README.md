@@ -29,10 +29,9 @@ Once the session launches...
 
 	```shell
 	sed -i 's/plugins: \[svelte()\]/plugins: [svelte()], server: { allowedHosts: true }/' vite.config.js
-	npm run dev -- --host --base=${JUPYTERHUB_SERVICE_PREFIX}proxy/absolute/5173/
 	```
 
-4. Do some initial preparation in order to be ready to try things soo to look at the result of vite / svelte in your browser. Copy the URL from your browser's address bar. It will look something like `https://hub.gesis.mybinder.org/user/fomightez-svelte-binder-5uzrk280/lab`. Paste it in a text editor so that you can get the part in front of `lab` for later.
+4. Do some initial preparation in order to be ready to try things soon to look at the result of vite / svelte in your browser. Copy the URL from your browser's address bar. It will look something like `https://hub.gesis.mybinder.org/user/fomightez-svelte-binder-5uzrk280/lab`. Paste it in a text editor so that you can get the part in front of `lab` for later.
 
 5. Run the following command in that terminal where you ran the earlier commands to start the development server serving the content:
 
@@ -46,5 +45,6 @@ Once the session launches...
 	https://hub.gesis.mybinder.org/user/fomightez-svelte-binder-5uzrk280/proxy/absolute/5173/
 	```
 
-Open a new browser window and paste in your edited URL so you can look at the site being served.
+Open a new browser window and paste in your edited URL so you can look at the site being served.   
+Revel in your resulting site!
 
