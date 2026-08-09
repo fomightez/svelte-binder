@@ -8,6 +8,7 @@ Binderized svelte development playground.
 
 ### How to use
 
+First, click the '`launch binder`' badge above to start a MyBinder-served Jupyter session.   
 Once the session launches...
 
 1. Start a terminal and run the following command there.
@@ -45,6 +46,6 @@ Once the session launches...
 	https://hub.gesis.mybinder.org/user/fomightez-svelte-binder-5uzrk280/proxy/absolute/5173/
 	```
 
-Open a new browser window and paste in your edited URL so you can look at the site being served.   
-Revel in your resulting site!
+	Open a new browser window and paste in your edited URL so you can look at the site being served.   
+	Revel in your resulting site!
 
