@@ -46,6 +46,6 @@ Once the session launches...
 	https://hub.gesis.mybinder.org/user/fomightez-svelte-binder-5uzrk280/proxy/absolute/5173/
 	```
 
-	Open a new browser window and paste in your edited URL so that you can look at the site being served. (You may need to wait approximately a minute after running the `npym run dev` command. You can keep reloading your browser page to try.)   
+	Open a new browser window and paste in your edited URL so that you can look at the site being served. (You may need to wait approximately a minute after running the `npm run dev` command. You can keep reloading your browser page to try.)   
 	Revel in your resulting site!
 
