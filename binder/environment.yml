@@ -1,0 +1,7 @@
+name: svelte-binder
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - nodejs>=22
+  - jupyter-server-proxy
