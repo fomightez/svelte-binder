@@ -16,7 +16,7 @@ Best for: Learning Svelte template syntax, state management (`$state`), and buil
 Track B: SvelteKit (The Standard Svelte tool kit)
 Best for: Leanring All-round modern, Svelte, learning filesystem routing, layouts, and page-to-page navigation.
 
-StackBlitz or CodeSandbox may be better options if you don't mind signing up.
+StackBlitz or CodeSandbox may be better options, if you don't mind signing up.
 
 Next, click the '`launch binder`' badge above to start a MyBinder-served Jupyter session.   
 
