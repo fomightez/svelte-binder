@@ -14,7 +14,7 @@ Track A: Vanilla Vite + Svelte Playground
 Best for: Learning Svelte template syntax, state management (`$state`), and building single-page components.
 
 Track B: SvelteKit DEvelopment Playground 
-Best for: Leanring All-round modern, Svelte, learning filesystem routing, layouts, and page-to-page navigation.
+Best for: Learning All-round modern Svelte, learning filesystem routing, layouts, and page-to-page navigation.
 
 StackBlitz or CodeSandbox may be better options, if you don't mind signing up.
 
@@ -24,7 +24,7 @@ Next, click the '`launch binder`' badge above to start a MyBinder-served Jupyter
 
 Once the session launches, do the steps for whichever track you chose...
 
-## Track 2: SvelteKit Development Playground (Standard Approach)
+## Track A: Vanilla Vite + Svelte Playground
 
 1. Start a terminal and run the following command there.
 
@@ -65,7 +65,7 @@ Once the session launches, do the steps for whichever track you chose...
 	Revel in your resulting site!
 
 
-## Track 2: SvelteKit Development Playground (Standard Approach)
+## Track B: SvelteKit Development Playground (Standard Approach)
 
 Use this method if you want to explore SvelteKit, which is the official framework for building full Svelte websites with automatic folder-based routing. This path initializes a fully styled, multi-page demo application complete with animations and layout routing out of the box.
 
@@ -118,7 +118,7 @@ Once your MyBinder session launches, open a terminal and run the following steps
    ```
 
 5. Prepare your preview URL. Copy the URL from your browser's address bar. It will look something like this:
-   `https://mybinder.org`
+   `https://hub.gesis.mybinder.org/user/fomightez-svelte-binder-5uzrk280/lab`
    
    Paste it in a text editor and replace the `/lab` part at the end with `/proxy/absolute/5173/`. Keep this modified URL ready.
 
