@@ -78,8 +78,7 @@ Once your MyBinder session launches, open a terminal and run the following steps
    *Guide to choices at the Interactive Prompts:*
    * **Install?** Select **yes** with `y` to install svelte, and press Enter.
    * **Which template?** Select **SvelteKit demo** using your arrow keys and press Enter. *(Note: If you prefer a completely blank canvas instead, you can choose "SvelteKit minimal" here).*
-   * **Add options?** Select **No** to type checking, scroll to **Done**, and press Enter.
-   * **Add packages?** Scroll straight down to **Done** and press Enter.
+   * **Add options?** Press Enter to install none of them at this time.
    * **Which package manager?** Select **npm** to automatically install dependencies.
 
 2. Move into your newly created project directory:
