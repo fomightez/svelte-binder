@@ -75,8 +75,9 @@ Once your MyBinder session launches, open a terminal and run the following steps
    ```bash
    npx sv create my-sveltekit-app
    ```
-   *Interactive Prompt Guide:*
-   * **Which template?** Select **SvelteKit demo app** using your arrow keys and press Enter. *(Note: If you prefer a completely blank canvas instead, you can choose "SvelteKit minimal" here).*
+   *Guide to choices at the Interactive Prompts:*
+   * **Install?** Select **yes** with `y` to install svelte, and press Enter.
+   * **Which template?** Select **SvelteKit demo** using your arrow keys and press Enter. *(Note: If you prefer a completely blank canvas instead, you can choose "SvelteKit minimal" here).*
    * **Add options?** Select **No** to type checking, scroll to **Done**, and press Enter.
    * **Add packages?** Scroll straight down to **Done** and press Enter.
    * **Which package manager?** Select **npm** to automatically install dependencies.
@@ -129,5 +130,5 @@ Once your MyBinder session launches, open a terminal and run the following steps
 
 7. Open a new browser window or tab, paste your modified URL, and hit Enter. Give it about a minute to spin up, and reload if necessary to see your live SvelteKit app!
 
-*Tip: If you ever want to switch back and test display a minimal, raw setup, you can re-run these steps from the beginning using a different folder name in Step 1 (e.g., `npx sv create my-minimal-app`) and choosing the **SvelteKit minimal** option. The config files in Steps 3 and 4 remain identical.*
+*Tip: If you ever want to switch back and test display a minimal, raw setup, you can re-run these Track B steps from the beginning using a different folder name in Step 1 (e.g., `npx sv create my-minimal-app`) and choosing the **SvelteKit minimal** option. The config files in Steps 3 and 4 remain identical.*
 
