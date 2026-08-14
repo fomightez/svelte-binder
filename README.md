@@ -10,10 +10,10 @@ Binderized svelte development playground.
 
 Pick a track. (**You most likely want track B with SvelteKit!**)
 
-Track A: Vanilla Vite + Svelte 
+Track A: Vanilla Vite + Svelte Playground
 Best for: Learning Svelte template syntax, state management (`$state`), and building single-page components.
 
-Track B: SvelteKit (The Standard Svelte tool kit)
+Track B: SvelteKit DEvelopment Playground 
 Best for: Leanring All-round modern, Svelte, learning filesystem routing, layouts, and page-to-page navigation.
 
 StackBlitz or CodeSandbox may be better options, if you don't mind signing up.
