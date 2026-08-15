@@ -131,3 +131,10 @@ Once your MyBinder session launches, open a terminal and run the following steps
 
 *Tip: If you ever want to switch back and test display a minimal, raw setup, you can re-run these Track B steps from the beginning using a different folder name in Step 1 (e.g., `npx sv create my-minimal-app`) and choosing the **SvelteKit minimal** option. The config files in Steps 3 and 4 remain identical.*
 
+----------
+
+## Related
+
+Already familiar with SvelteKit and getting things set up?  
+You can go to [my sveltekit_demo-binder repo](https://github.com/fomightez/sveltekit_demo-binder) and launch a session with the SvelteKit demo already installed and ready to run.
+
