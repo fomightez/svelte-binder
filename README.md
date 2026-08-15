@@ -136,5 +136,5 @@ Once your MyBinder session launches, open a terminal and run the following steps
 ## Related
 
 Already familiar with SvelteKit and getting things set up?  
-You can go to [my sveltekit_demo-binder repo](https://github.com/fomightez/sveltekit_demo-binder) and launch a session that uses `postBuild` to already run the commands above to install the SvelteKit. All that is left to start the development server and look at it,
+You can go to [my sveltekit_demo-binder repo](https://github.com/fomightez/sveltekit_demo-binder) and launch a session that uses `postBuild` to already run the commands above to install the SvelteKit. All that is left to start the development server and look at it.
 
